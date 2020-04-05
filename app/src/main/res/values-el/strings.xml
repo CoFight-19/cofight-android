@@ -1,0 +1,33 @@
+<resources>
+    <string name="intro_explain">Σταματήστε την εξάπλωση του COVID-19 στην Κύπρο</string>
+    <string name="intro_next">Δείξε μου πως</string>
+    <string name="intro_part_1_paragraph_1">Με το να χρησιμοποιείτε την εφαρμογή, συνεισφέρετε στην γρηγορότερη ιχνηλάτηση των κρουσμάτων COVID-19.</string>
+    <string name="intro_part_1_paragraph_2">Εάν ήρθατε σε κοντινή επαφή με επιβεβαιωμένο κρούσμα, θα ειδοποιήσουμε εσάς και τους υπόλοιπους γρηγορότερα και θα σταματήσουμε την εξάπλωση του ιου.</string>
+    <string name="intro_title_1">Γιατί να χρησιμοποιήσετε το CovidGuard?</string>
+    <string name="intro_title_2">Πως δουλέυει</string>
+    <string name="intro_part_2_paragraph_1">Χρησιμοποιώντας μόνο Bluetooth, το CovidGuard αναγνωρίζει τις κοντινές συσκευές οι οποίες έχουν την εφαρμογή εγκατεστημένη.</string>
+    <string name="intro_part_2_paragraph_2">Καταγράφει τον μοναδικό αριθμό των κοντινών συσκευών (λιγότερο απο 4 μέτρα) και την ημερομηνία επαφής.</string>
+    <string name="intro_part_2_paragraph_3">Εάν καταστεί αναγκαίο, αυτές οι πληροφορίες θα χρησιμοποιθούν για την ιχνηλάτηση των κοντινών σας επαφών.</string>
+    <string name="intro_message_next">Επόμενο</string>
+    <string name="signup_explain">Εισάγετε τον αριθμό του κινητού σας τηλεφώνου για να ξεκινήσετε</string>
+    <string name="signup_sms_explain">Θα λάβετε μήνυμα SMS με τον κωδικό επαλήθευσης</string>
+    <string name="signup_done">Τέλος</string>
+    <string name="generic_error">Προέκυψε απροσδιόριστο σφάλμα. Ξαναδοκιμάστε σε λίγο!</string>
+    <string name="verify_explain">Εισάγετε τον κωδικό που σας έχει σταλεί στο</string>
+    <string name="scanning_on">Ενεργοποιημένο</string>
+    <string name="scanning_explain">Μπορείτε να κλείσετε την εφαρμογή. Θα συνεχίσει να γίνεται σάρωση στο παρασκήνιο για τα κοντινά τηλέφωνα που έχουν εγκατεστημένο το CovidGuard. Μείνετε ασφαλείς εκεί έξω!</string>
+    <string name="upload">Ανέβασμα</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="share">Μοιραστείτε την εφαρμογή για κρατήσετε την οικογένεια και τους φίλους σας ασφαλή</string>
+    <string name="scanning_off">Απενεργοποιημένο</string>
+    <string name="upload_confirmation">Ανεβάστε τα δεδομένα μόνο εαν έχετε ειδοποιηθεί μέσω μηνύματος/τηλεφώνου για επαφή με επιβεβαιωμένο κρούσμα. Είστε σίγουροι;</string>
+    <string name="share_app">Μοιραστείτε το CovidGuard</string>
+    <string name="upload_data">Ανέβασμα δεδομένων</string>
+    <string name="upload_data_success">Επιτυχής υποβολή!</string>
+    <string name="log_out_delete">Αποσύνδεση &amp; Διαγραφή δεδομένων</string>
+    <string name="log_out_delete_confirmation">Όλα τα δεδομένα σας θα διαγραφούν όταν αποσυνδεθείτε. Αυτή η πράξη δε μπορεί να αναιρεθεί. Είσαι σίγουρος?</string>
+    <string name="permissions_confirmation_title">Εκχώρηση δικαιωμάτων</string>
+    <string name="permissions_confirmation_body">Ορισμένα δικαιώματα εφαρμογής είναι απαραίτητα για την σωστή λειτουργία της εφαρμογής. Σημειώστε ότι η άδεια θέσης είναι απαραίτητη για την εφαρμογή για να χρησιμοποιήσετε το Bluetooth (η τοποθεσία δεν καταγράφεται).</string>
+    <string name="notification_running">Το Covid Guard τρέχει στο παρασκήνιο</string>
+    <string name="bluetooth_not_supported">Ένα χαρακτηριστικό του Bluetooth απαραίτητο για την εφαρμογή αυτή δεν είναι διαθέσιμο.</string>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Covid Guard</string>
+
+    <string name="intro_explain">Stop the spread of COVID-19 in Cyprus</string>
+    <string name="intro_next">Show me how</string>
+    <string name="intro_part_1_paragraph_1">"By using the app you can contribute to a faster detection of COVID-19 cases. "</string>
+    <string name="intro_part_1_paragraph_2">If you come in close contact with a confirmed case, we can contact you and others much faster, thus stopping the spread of the virus.</string>
+    <string name="intro_title_1">Why Use CovidGuard?</string>
+    <string name="intro_title_2">How It Works</string>
+    <string name="intro_part_2_paragraph_1">"Using only Bluetooth, CovidGuard identifies nearby phones that have the app installed. "</string>
+    <string name="intro_part_2_paragraph_2">"It records the IDs of phones you come in close proximity (less than 4 meters), and a timestamp. "</string>
+    <string name="intro_part_2_paragraph_3">If necessary, this information can be used to identify if you had any close contacts and their duration.</string>
+    <string name="intro_message_next">Next</string>
+    <string name="signup_explain">Enter your phone number to get started</string>
+    <string name="signup_sms_explain">You will receive an SMS with a verification code</string>
+    <string name="signup_done">Done</string>
+    <string name="generic_error">An error has occurred. Please try again.</string>
+    <string name="verify_explain">Enter the code sent to</string>
+    <string name="scanning_on">Enabled</string>
+    <string name="scanning_explain">You can close the app. It will continue scanning in the background for nearby phones that have CovidGuard installed. Stay safe out there!</string>
+    <string name="upload">Upload</string>
+    <string name="settings">Settings</string>
+    <string name="share">"Share the app to keep your family &amp; friends safe"</string>
+    <string name="scanning_off">Disabled</string>
+    <string name="upload_confirmation">Upload your data only after getting notified via SMS/call of a COVID-19 close contact. Are you sure?</string>
+    <string name="share_app">Share CovidGuard</string>
+    <string name="upload_data">Upload My Data</string>
+    <string name="upload_data_success">Successful submission!</string>
+    <string name="log_out_delete">Log Out &amp; Delete All Data</string>
+    <string name="log_out_delete_confirmation">"All your data will be erased when you log out. This action cannot be undone. Are you sure? "</string>
+    <string name="permissions_confirmation_title">Grant permissions</string>
+    <string name="permissions_confirmation_body">Some app permissions are required for the app to function properly. Note that location permission is needed for the app to use Bluetooth (location is not recorded).</string>
+    <string name="notification_running">Covid Guard is running in the background</string>
+    <string name="bluetooth_not_supported">A Bluetooth feature required for this app to work is not available.</string>
+
+</resources>
